@@ -3,6 +3,6 @@
 **Running**
 
 ```bash
-make get_ubuntu_deps
+make ubuntu_install_deps
 make run
 ```
